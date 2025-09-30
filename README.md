@@ -134,7 +134,7 @@ SELECT * FROM alunos ORDER BY nome ASC;
 ### Atualizar curso de um aluno (exemplo: id=2)
 
 ```sql
-UPDATE alunos SET curso = 'Ciência da Computação' WHERE id = 2;
+UPDATE alunos SET curso = 'Sistemas da Informação' WHERE id = 2;
 ```
 
 ### Remover aluno pelo ID (exemplo: id=3)
